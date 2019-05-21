@@ -10,6 +10,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 
 import javax.sql.DataSource;
 @Configuration
+//mamazekun
 public class ActivitiConfig {
     //流程配置，与spring整合采用SpringProcessEngineConfiguration这个实现
     @Bean
